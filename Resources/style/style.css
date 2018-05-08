@@ -13,8 +13,17 @@ h2 {
 p {
   font-size: 14px;
 }
+a:link {
+  color: white;
+}
 a:visited {
   color: white;
+}
+a:hover {
+  color: lightyellow;
+}
+a:active {
+  color: #E2E1E1;
 }
 .navigationLinks {
   text-align: left;
