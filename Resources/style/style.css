@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+h1 {
+  color:white;
+  font-weight: bold;
+  font-size: 70px;
+}
+h2 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.navigationLinks {
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  background-color: dimgray;
+}
+.copyright {
+  font-size: 11px;
+  color: white;
+}
+.flatironPicLarge {
+  background-image: url('../images/flatiron.png');
+}
+.ourProcess {
+  font-size: 32px;
+}
+.designedInNewYork {
+  background-image: url('../images/flatiron.png');
+  color: white;
+}
